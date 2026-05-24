@@ -54,7 +54,7 @@ I am Vadney Da Silva - an aspiring **SOC Analyst** curiously passionate about de
 - *Blue Team Handbook* - Don Murdoch
 - TryHackMe SOC Level 1 Path
 - Professor Messer's Security+ Course
-- 
+- Additional: Jason Dion Security+ (Udemy)
 
 ---
 
