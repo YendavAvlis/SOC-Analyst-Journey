@@ -18,7 +18,7 @@ I am Vadney Da Silva - an aspiring **SOC Analyst** curiously passionate about de
 ## 📚 Certifications & Studies
 | Certification | Status | Notes |
 |---------------|--------|-------|
-| CompTIA Security+ | 🔄 In Progress | [Study Notes](./Security+) |
+| CompTIA Security+ | 🔄 In Progress | [Study Notes](./Security+/study-notes.md) |
 | CySA+ | ⏳ Planned | — |
 
 ---
